@@ -3,7 +3,8 @@
   <a href="https://github.com/Ronaksharma21"><img title="Developer" src="https://img.shields.io/badge/Author-VENOX-pink.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
-  <img border-radius: 15px src="https://github.com/Tflifesucks/Tflifesucks/assets/112532322/4f072169-c3d8-4ce7-bf70-f1a675532dca" width="400" height="205"/>
+  <img border-radius: 15px src="![image_processing20190919-2425-10lp6bb](https://github.com/Ronaksharma21/Ronaksharma21/assets/112383311/b2cb6bb3-5fec-4b9c-8f66-93d5a675de37)
+="400" height="205"/>
   
   
 ## 
