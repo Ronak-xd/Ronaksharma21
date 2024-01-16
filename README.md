@@ -1,20 +1,17 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-  <a href="https://github.com/Ronaksharma21"><img title="Developer" src="https://img.shields.io/badge/Author-VENOX-pink.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/Ronaksharma21"><img title="Developer" src="https://img.shields.io/badge/Author-RONAK-red.svg?style=for-the-badge&logo=github" /></a>
 </p>
-<p align="center">
-  <img border-radius: 15px src="![image_processing20190919-2425-10lp6bb](https://github.com/Ronaksharma21/Ronaksharma21/assets/112383311/b2cb6bb3-5fec-4b9c-8f66-93d5a675de37)
-="400" height="205"/>
+<p align="center" >
+  <img border-radius:15px src="./redme.gif" width="700" height="405"/>
   
   
-## 
-> **Warning**: This script is not for trade or sell purposes.
+
 
 <h1 align="center"> RONAK </h1> 
 <p align="center"> Introducing , A Simple Developer </p>
 <p align="center">
-  <a href="https://github.com/Ronaksharma21"><img title="Release" src="https://img.shields.io/badge/Version-%201.0.1-pink.svg?style=for-the-badge&logo=whatsapp" /></a>
-</p>
+  
 
 <p align="center">
 <a href="https://www.youtube.com/c/infinite9452"><img title="𝐒𝚮𝚫𝐃𝚵𝐒" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=pink"></a> &nbsp;
