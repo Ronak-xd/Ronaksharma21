@@ -27,9 +27,7 @@
     <a href="https://instagram.com/_ronak20__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tfgopal" height="30" width="40" /></a>
 </p>
 
-<p>align="center">Need help? please create an issue
 
-***</p>
 
 # 💫 About Me:
 I AM CURRENTLY LEARNING
