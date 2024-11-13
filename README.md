@@ -24,7 +24,7 @@
 
 
 <p align="center">
-    <a href="https://instagram.com/_ronak20__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@tfgopal" height="30" width="40" /></a>
+    <a href="https://instagram.com/ronakk20_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ronak" height="30" width="40" /></a>
 </p>
 
 
